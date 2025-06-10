@@ -31,26 +31,6 @@ gráfica.
 
 ---
 
-## Estructura del proyecto
-
-app-banco/
-│
-├── GUI/
-│ └── interfaz.py # Interfaz gráfica con Tkinter
-├── src/
-│ ├── __init__.py
-│ ├── clases.py # Modelo Cliente y lógica
-│ ├── funciones.py # Funciones auxiliares y consola
-│ └── main.py # Programa principal consola
-├── tests/
-│ ├── test_cliente.py # Tests unitarios para clase Cliente
-│ └── test_funciones_auxiliares.py
-├── README.md
-├── LICENSE
-└── .gitignore
-
----
-
 ## Configuración y ejecución
 
 Para evitar problemas con importaciones y ejecución, sigue estos pasos:

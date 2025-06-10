@@ -3,7 +3,7 @@ Módulo main que representa el menú principal de la app bancaria, con un bucle 
 usuario decida salir
 """
 
-from clases import Cliente
+from src.clases import Cliente
 from src.funciones import crear_cliente, pedir_cantidad, limpiar_pantalla_simulada
 
 
